@@ -1,0 +1,3 @@
+- src: https://github.com/zbitmanis/role_user_profile.git
+  name: user_profile
+  version: v1.0.1

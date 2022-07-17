@@ -1,0 +1,8 @@
+---
+- name: 'prepare user proofile'
+  hosts: local
+  become: false
+  roles:
+   - user_profile
+  tags:
+    - 'prepare'
